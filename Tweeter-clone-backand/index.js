@@ -15,7 +15,7 @@ dataBaseConnection();
 
 const allowedOrigins = [
   "http://localhost:5173", // Local frontend (adjust port if needed)
-  "https://tweeter-clone-frontend-ochre.vercel.app", // Your Vercel frontend
+  "https://tweeter-eight-flax.vercel.app", // Your Vercel frontend
 ];
 
 //middlewares
